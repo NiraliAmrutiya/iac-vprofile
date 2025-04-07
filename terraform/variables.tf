@@ -11,5 +11,3 @@ variable "clusterName" {
   type        = string
   default     = "vprofileapp-eks"
 }
-
-##Comment
